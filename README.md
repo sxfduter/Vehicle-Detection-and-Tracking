@@ -10,6 +10,9 @@
   + [homepage](https://uwaterloo.ca/waterloo-intelligent-systems-engineering-lab/projects/precise-synthetic-image-and-lidar-presil-dataset-autonomous)
 * nuScenes: A multimodal dataset for autonomous driving
   + [paper](https://arxiv.org/pdf/1903.11027.pdf)
+* Semi-Supervised  Monocular  Depth  Estimation  with  Left-RightConsistency  Using  Deep  Neural  Network
+  + [paper](https://arxiv.org/pdf/1905.07542.pdf)
+  + [code](https://github.com/a-jahani/semiDepth)
 
 
 
