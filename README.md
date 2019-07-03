@@ -8,6 +8,8 @@
 * Precise Synthetic Image and LiDAR (PreSIL) Dataset for Autonomous Vehicle Perception
   + [paper](https://arxiv.org/pdf/1905.00160.pdf)
   + [homepage](https://uwaterloo.ca/waterloo-intelligent-systems-engineering-lab/projects/precise-synthetic-image-and-lidar-presil-dataset-autonomous)
-  
-  
+* nuScenes: A multimodal dataset for autonomous driving
+  + [paper](https://arxiv.org/pdf/1903.11027.pdf)
+
+
 
