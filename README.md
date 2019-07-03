@@ -4,7 +4,10 @@
 * Traffic Light Recognition Using Deep Learning andPrior Maps for Autonomous Cars
   + [paper](https://arxiv.org/pdf/1906.11886.pdf)
   + [code](https://github.com/LCAD-UFES/carmen_lcad/blob/master/src/traffic_light_yolo/README.md)
-  
+# Lidar
+* Precise Synthetic Image and LiDAR (PreSIL) Dataset for Autonomous Vehicle Perception
+  + [paper](https://arxiv.org/pdf/1905.00160.pdf)
+  + [homepage](https://uwaterloo.ca/waterloo-intelligent-systems-engineering-lab/projects/precise-synthetic-image-and-lidar-presil-dataset-autonomous)
   
   
 
